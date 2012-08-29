@@ -1,0 +1,6 @@
+<h1>Here come the Bovdurs</h1>
+<ul id="bovdurs" />
+<form id="new_bovdur">
+  <label for="bovdur_name">Add another bovdur:</label>
+  <input type="text" name="bovdur[name]" id="bovdur_name">
+</form>

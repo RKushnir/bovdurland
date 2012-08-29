@@ -1,0 +1,1 @@
+<%= @bovdur.get('name') %>
